@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Михаил Шаимкулов](https://up.htmlacademy.ru/htmlcss/39/user/2463819).
-* Наставник: {Владислав Ермолаев}(https://htmlacademy.ru/profile/id128353)
+* Наставник: [Владислав Ермолаев](https://htmlacademy.ru/profile/id128353)
 * Сайт: [Мой проект Седона](https://mikhail-2024.github.io/2463819-sedona-39/)
 
 ---
